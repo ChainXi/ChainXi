@@ -22,6 +22,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=fff)
 
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff)
+
 **Frameworks and Tools:**
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=333)
@@ -30,6 +32,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring-Boot&logoColor=fff)
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=fff)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=Gradle&logoColor=fff)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ-IDEA&logoColor=fff)
 
 **GitHub Stats:**
 
