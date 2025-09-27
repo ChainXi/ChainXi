@@ -1,16 +1,44 @@
-## Hi there 👋
+### Hi there, I'm ChainXi 👋
 
-<!--
-**ChainXi/ChainXi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+链接未来，创新无限。
+                              -- 一个热爱技术的开发者
+</pre>
 
-Here are some ideas to get you started:
+**About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=ChainXi.ChainXi" align="center" alt="visitors">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
+
+|   项&emsp;目   | 链接                                                     |
+| :------------: | :------------------------------------------------------- |
+| **GitHub**     | **<https://github.com/ChainXi>**                        |
+| **个人主页**   | **即将上线...**                                           |
+
+**Languages:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=fff)
+
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff)
+
+**Frameworks and Tools:**
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=333)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
+![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring-Boot&logoColor=fff)
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=fff)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=Gradle&logoColor=fff)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ-IDEA&logoColor=fff)
+
+**GitHub Stats:**
+
+![ChainXi's github stats](https://github-readme-stats.vercel.app/api?username=ChainXi&show_icons=true&hide_title=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChainXi&layout=compact)
