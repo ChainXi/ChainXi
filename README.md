@@ -1,8 +1,7 @@
 ### Hi there, I'm ChainXi 👋
 
 <pre>
-链接未来，创新无限。
-                              -- 一个热爱技术的开发者
+Marching ChianXi!
 </pre>
 
 **About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=ChainXi.ChainXi" align="center" alt="visitors">
